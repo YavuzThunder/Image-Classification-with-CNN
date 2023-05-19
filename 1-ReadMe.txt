@@ -1,14 +1,15 @@
 
-Projeyi çalıştırmak için:
+To run the project:
 
-1) İlgili dizini, Python 3.10 interpreter'a sahip bir IDE ile açınız, kütüphaneleri güncelleyiniz.
-2) Proje PyCharm ortamında geliştirilmiştir, ikincil bir hata ile karşılaşmamak adına PyCharm kullanmanızı öneririz.
-3) Deney grubu imgeler belirli bir düzen ile dizine dahil edilmiştir, imgeler ve main.py aynı dizinde olmalıdır.
-4) 51. satırda bulunan metodun içerisine imge dosyasının ismini(örn:'j9_truck.jpg') ekleyerek betiği koşturunuz.
-5) Betiğin çalışma süresi sistem kaynaklarınıza göre değişkenlik gösterebilir, bekleyiniz.
-6) Yorum bloklarını kaldırmanıza gerek yoktur.
+Open the relevant directory with an IDE that has Python 3.10 interpreter, and update the libraries.
+The project was developed in PyCharm, and we recommend using PyCharm to avoid any secondary errors.
+The test images are included in the directory with a specific arrangement; the images and main.py should be in the same directory.
+Run the script by adding the name of the image file (e.g., 'j9_truck.jpg') into the method on line 51.
+The script's execution time may vary depending on your system resources, so please wait.
+There is no need to remove the comment blocks.
 
-Kaynak: https://www.youtube.com/@NeuralNine
+Source: https://www.youtube.com/@NeuralNine
+
 -----------------------------------
-Beyzanur Balcı - 191106109013
-Yasin Yavuz Yıldırım - 190106109054
+Beyzanur Balci 
+Yasin Yavuz Yildirim
